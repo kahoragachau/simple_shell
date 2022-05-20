@@ -1,4 +1,4 @@
 # Simple Shell
 
-## Descrption
+## Description
 This is a simple shell
